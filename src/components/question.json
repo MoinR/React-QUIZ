@@ -1,0 +1,145 @@
+[
+  {
+      "id": 1,
+      "question": "The three important goals of data communications are correct delivery, accurate delivery and______________",
+      "answers": [
+          "late delivery",
+          "on the spot delivery",
+          "timely delivery",
+          "delivery on the next day"
+      ],
+      "Correct_answer": "timely delivery"
+  },
+  {
+      "id": 2,
+      "question": "______________ standards are highly desirable because anyone can use them.",
+      "answers": [
+          "rule",
+          "protocol",
+          "law",
+          "option"
+      ],
+      "Correct_answer": "law"
+  },
+  {
+      "id": 3,
+      "question": "The fundamental basis of data communications is _______.",
+      "answers": [
+          "Free",
+          "Open",
+          "Closed",
+          "Ready"
+      ],
+      "Correct_answer": "Open"
+  },
+  {
+      "id": 4,
+      "question": "The time required for passing energy from one point to another is called ______________.",
+      "answers": [
+          "light",
+          "electricity",
+          "voltage",
+          "signal propagation"
+      ],
+      "Correct_answer": "signal propagation"
+  },
+  {
+      "id": 5,
+      "question": "______________ signals are continuous in nature.",
+      "answers": [
+          "propagation delay",
+          "movement delay",
+          "change delay",
+          "passing delay"
+      ],
+      "Correct_answer": "propagation delay"
+  },
+  {
+      "id": 6,
+      "question": "______________ signals are on-off in nature.",
+      "answers": [
+          "Analog",
+          "Digital",
+          "Mixed",
+          "None of the above"
+      ],
+      "Correct_answer": "Analog"
+  },
+  {
+      "id": 7,
+      "question": "The concept of ______________ can be understood with the help of the example of a waterpipe.",
+      "answers": [
+          "Analog",
+          "Digital",
+          "Mixed",
+          "None of the above"
+      ],
+      "Correct_answer": "Digital"
+  },
+  {
+      "id": 8,
+      "question": "______________ showed that any waveform can be shown as made-up of a number of smaller",
+      "answers": [
+          "analog signals",
+          "digital signals",
+          "amplitude",
+          "bandwidth"
+      ],
+      "Correct_answer": "digital signals"
+  },
+  {
+      "id": 9,
+      "question": "The strength of a signal at any point of time is called as its ______________.",
+      "answers": [
+          "Fourier",
+          "Newton",
+          "Einstein",
+          "Hartley"
+      ],
+      "Correct_answer": "Hartley"
+  },
+  {
+      "id": 10,
+      "question": "The time required for the completion of one signal cycle is its ______________",
+      "answers": [
+          "amplitude",
+          "frequency",
+          "period",
+          "phase"
+      ],
+      "Correct_answer": "amplitude"
+  },
+  {
+      "id": 11,
+      "question": "The number of cycles completed by a signal in one second is its ______________",
+      "answers": [
+          "amplitude",
+          "frequency",
+          "period",
+          "phase"
+      ],
+      "Correct_answer": "amplitude"
+  },
+  {
+      "id": 12,
+      "question": "The unit used to measure frequency is ______________.",
+      "answers": [
+          "hertz",
+          "volts",
+          "ampere",
+          "seconds"
+      ],
+      "Correct_answer": "ampere"
+  },
+  {
+      "id": 13,
+      "question": "The de jure standards apply because of ______________.",
+      "answers": [
+          "conventions",
+          "agreement",
+          "regulation",
+          "choice"
+      ],
+      "Correct_answer": "agreement"
+  }
+]
